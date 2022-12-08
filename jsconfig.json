@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "components/*": ["./stories/components/*"],
+      "utils/*": ["./stories/utils/*"]
+    }
+  }
+}

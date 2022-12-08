@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Button Caret 1`] = `
+<button
+  className="sc-iBYQkv ckxZmY"
+  disabled={false}
+  type="button"
+>
+  <span
+    className="sc-ftTHYK hcmFKB"
+  >
+    Button
+  </span>
+  <svg
+    className="sc-gKPRtg hNrndb"
+  >
+    caret.svg
+  </svg>
+</button>
+`;
+
+exports[`Storyshots Example/Button Disabled 1`] = `
+<button
+  className="sc-iBYQkv Ahomd"
+  disabled={true}
+  type="button"
+>
+  <span
+    className="sc-ftTHYK cPcfnS"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Example/Button Form Reset 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h1>
+    Login
+  </h1>
+  <p>
+    <label>
+      Username
+      <br />
+      <input
+        name="username"
+        placeholder="Type username"
+        type="text"
+      />
+    </label>
+  </p>
+  <p>
+    <label>
+      Password
+      <br />
+      <input
+        name="password"
+        placeholder="Type password"
+        type="password"
+      />
+    </label>
+  </p>
+  <button
+    className="sc-iBYQkv ckxZmY"
+    disabled={false}
+    type="reset"
+  >
+    <span
+      className="sc-ftTHYK cPcfnS"
+    >
+      Reset
+    </span>
+  </button>
+</form>
+`;
+
+exports[`Storyshots Example/Button Form Submit 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h1>
+    Login
+  </h1>
+  <p>
+    <label>
+      Username
+      <br />
+      <input
+        name="username"
+        placeholder="Type username"
+        type="text"
+      />
+    </label>
+  </p>
+  <p>
+    <label>
+      Password
+      <br />
+      <input
+        name="password"
+        placeholder="Type password"
+        type="password"
+      />
+    </label>
+  </p>
+  <button
+    className="sc-iBYQkv ckxZmY"
+    disabled={false}
+    type="submit"
+  >
+    <span
+      className="sc-ftTHYK cPcfnS"
+    >
+      Submit
+    </span>
+  </button>
+</form>
+`;
+
+exports[`Storyshots Example/Button Icon 1`] = `
+<button
+  className="sc-iBYQkv ckxZmY"
+  disabled={false}
+  type="button"
+>
+  <svg>
+    bookmark.svg
+  </svg>
+  <span
+    className="sc-ftTHYK ceLtMX"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Example/Button On Click 1`] = `
+<button
+  className="sc-iBYQkv ckxZmY"
+  disabled={false}
+  onClick={[Function]}
+  type="button"
+>
+  <span
+    className="sc-ftTHYK cPcfnS"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Example/Button Primary 1`] = `
+<button
+  className="sc-iBYQkv ckxZmY"
+  disabled={false}
+  type="button"
+>
+  <span
+    className="sc-ftTHYK cPcfnS"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Example/Button Secondary 1`] = `
+<button
+  className="sc-iBYQkv hfpuMz"
+  disabled={false}
+  type="button"
+>
+  <span
+    className="sc-ftTHYK cPcfnS"
+  >
+    Button
+  </span>
+</button>
+`;
+
+exports[`Storyshots Example/Button Theme 1`] = `
+Array [
+  <div
+    className="sc-bcXHqe jpMrRE"
+  >
+    <label
+      className="sc-gswNZR eJsxnv"
+    >
+      <input
+        checked={true}
+        className="sc-dkrFOg dksDaI"
+        onChange={[Function]}
+        type="radio"
+      />
+      Default
+    </label>
+    <label
+      className="sc-gswNZR eJsxnv"
+    >
+      <input
+        checked={false}
+        className="sc-dkrFOg dksDaI"
+        onChange={[Function]}
+        type="radio"
+      />
+      Custom
+    </label>
+  </div>,
+  <button
+    className="sc-iBYQkv zWSzX"
+    disabled={false}
+    type="button"
+  >
+    <span
+      className="sc-ftTHYK cPcfnS"
+    >
+      Button
+    </span>
+  </button>,
+]
+`;
