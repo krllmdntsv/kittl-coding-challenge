@@ -55,7 +55,7 @@ export const Button = styled.button`
   align-items: center;
   text-align: center;
   margin: 0;
-  padding: 8px 14px;
+  padding: 6.5px 14px;
   
   font-family: 'Inter', sans-serif;
   font-style: normal;
